@@ -3,7 +3,7 @@
 ## PROJECT OBJECTIVE 
 Developed an interactive Power BI dashboard to evaluate brand performance and profitability, delivering data-driven insights on sales patterns, regional growth, and product profitability. The dashboard empowers stakeholders to monitor key KPIs, uncover improvement opportunities, and drive strategic decisions for enhanced business outcomes.
 
-## TOOLS AND TECHOLOGIES 
+## TOOLS AND TECHNOLOGIES 
 Azure SQL Database- For data sourcing.
 DAX - For advanced measures and calculations.
 Power BI Desktop - For Data Visualization and dashboard creation.
