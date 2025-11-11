@@ -16,6 +16,8 @@ Power BI Desktop - For Data Visualization and dashboard creation.
   - Donut Charts for product mix analysis  
   - KPI Cards for quick metrics  
   - Maps for regional sales visualization  
+
+ ![Image Alt](https://github.com/pranshukothiyal/SALES-PERFORMANCE-AND-PROFITABILITY-DASHBOARD/blob/3134c5d1cb148809fa123f7f6bfdbda4ff4dbe53/1.png)
  
 ## HOW TO USE
 1. Download the `.pbix` file from this repository.  
